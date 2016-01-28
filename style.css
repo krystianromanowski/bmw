@@ -1,0 +1,74 @@
+body {
+	margin: 0px;
+	padding:0px; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+#tlo {
+    	background-image: url("data/tlo.png");
+	
+}
+#logo {
+	width:800px;
+	height:200px;
+	background-image: url("data/logo.jpg");
+}
+#menu {
+	width:800px;
+	background-color: #EEEEEE;
+}
+
+ul#menu {
+     padding: 0px;
+	 text-align:center;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 0px 30px;
+    text-decoration: none;
+}
+
+ul#menu li a:hover {
+    background-color: grey;
+}
+
+#tresc {
+width:800px;
+height:1100px;
+background-color: white;
+ 
+}
+
+#stopka {
+width:800px;
+height:30px;
+background-color: grey;
+text-align:center;
+
+}
+.tekst {
+    color: maroon;
+    text-decoration: underline wavy red;
+}
+.centrowana {
+  width: 50%;
+  margin: 0 auto;
+  }
+  h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+
+p {
+padding: 20px;
+}
+
+table {
+margin: 20px;
+padding: 20px;
+}
